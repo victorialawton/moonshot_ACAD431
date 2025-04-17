@@ -1,13 +1,10 @@
-# Xcode
-   .DS_Store
-   xcuserdata/
-   *.xcuserstate
-   project.xcworkspace/
-   DerivedData/
-   *.hmap
-   *.ipa
-   *.dSYM.zip
-   *.dSYM
-   
-   # CocoaPods
-   Pods/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
